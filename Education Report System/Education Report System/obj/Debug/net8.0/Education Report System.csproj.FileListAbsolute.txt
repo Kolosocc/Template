@@ -1,0 +1,14 @@
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.AssemblyInfoInputs.cache
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.AssemblyInfo.cs
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.csproj.CoreCompileInputs.cache
+G:\Three\Csh\Education Report System\Education Report System\bin\Debug\net8.0\Education Report System.exe
+G:\Three\Csh\Education Report System\Education Report System\bin\Debug\net8.0\Education Report System.deps.json
+G:\Three\Csh\Education Report System\Education Report System\bin\Debug\net8.0\Education Report System.runtimeconfig.json
+G:\Three\Csh\Education Report System\Education Report System\bin\Debug\net8.0\Education Report System.dll
+G:\Three\Csh\Education Report System\Education Report System\bin\Debug\net8.0\Education Report System.pdb
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.dll
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\refint\Education Report System.dll
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.pdb
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\Education Report System.genruntimeconfig.cache
+G:\Three\Csh\Education Report System\Education Report System\obj\Debug\net8.0\ref\Education Report System.dll
